@@ -1,6 +1,4 @@
 ### Olá Eu sou o Gabriel9criss 👋
-- 🔭 Atualmente estou trabalhando na criação de um site para uma confeitaria
-- 🌱 Atualmente estou relembrando html css  js e ts
 - 📫 Como entrar em contato comigo: mendesdarosa8@gmail.com
 <div>
 <a href="https://github.com/Gabriel9criss">
