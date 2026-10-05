@@ -1,5 +1,29 @@
-### Olá Eu sou o Gabriel9criss 👋
-- 📫 Como entrar em contato comigo: mendesdarosa8@gmail.com
+- # Olá, eu sou Gabriel 👋
+
+Desenvolvedor front-end em formação, focado em HTML, CSS e JavaScript.
+
+## 🚀 Sobre mim
+Estou construindo meus primeiros projetos web, com foco em interfaces responsivas, boa UX e criação de experiências modernas.
+
+## 🛠️ Tecnologias
+- HTML5
+- CSS3
+- JavaScript
+- Git/GitHub
+- Figma (em estudo)
+
+## 📌 Projetos em destaque
+- Card de produtos
+- Menu responsivo
+- Footer responsivo
+- Efeito de água em texto
+
+## 🌐 Contato
+- GitHub: https://github.com/Gabriel9criss
+- Email: mendesdarosa
+
+## 📈 Objetivo
+Buscando desenvolver habilidades em front-end e evoluir para projetos mais completos e profissionais.
 <div>
 <a href="https://github.com/Gabriel9criss">
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Gabriel9criss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
